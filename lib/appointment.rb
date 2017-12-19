@@ -7,3 +7,4 @@ class Appointment
   end
 
   
+end
